@@ -133,7 +133,7 @@ body{
     text-decoration: none;
     padding:  0;
     color: white;
-    transition: all 0.2s; 
+    transition: all 1s; 
 }
 .hgg{
     position: absolute;
@@ -209,7 +209,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     font-size: 20px;
-    transition: all 0.2s;
+    transition: all 1s;
     text-decoration: none;
     color: white;
 }
@@ -329,7 +329,7 @@ body{
     padding: 13px 43px;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
-    transition: all 0.5s;
+    transition: all 1.3s;
     font-size: 15px;
     color: #FEFEFE;
     margin-left: 20px; 
@@ -350,7 +350,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
     color: #FEFEFE;  
-    transition: all 0.5s; 
+    transition: all 1s; 
 }
 .btn2:hover{
     border-radius: 0;   
@@ -362,7 +362,7 @@ body{
     padding: 25px 52px;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
-    transition: all 0.5s;
+    transition: all 1s;
     font-size: 20px;
     color: #FEFEFE;   
     
@@ -377,7 +377,7 @@ body{
     padding: 25px 52px;
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
-    transition: all 0.5s;
+    transition: all 1s;
     font-size: 25px;
     color: #FEFEFE;    
 }
@@ -385,7 +385,7 @@ body{
     border-radius: 0;   
 }
 .btn5{
-    transition: all 0.5s;
+    transition: all 1s;
 }
 .btn5:hover{
     border-radius: 0;   
@@ -757,7 +757,7 @@ opacity: 0.5;
     font-family: 'Poppins', sans-serif;
     font-weight: 700;
     font-size: 20px;
-    transition: all 0.2s;
+    transition: all 1s;
     text-decoration: none;
     color: orangered;
 }
@@ -774,7 +774,7 @@ opacity: 0.5;
     text-decoration: none;
     padding:  0;
     color: #0F1F1C;
-    transition: all 0.2s;
+    transition: all 1s;
 }
 .menu__linkfut:hover{
     color: orangered;   
